@@ -93,9 +93,9 @@
 ### 📈 GitHub Insights
 
 // <p align="center">
-//   <img src="https://github-readme-stats.vercel.app/api?username=santhosh-thouda&show_icons=true&theme=radical&border_radius=15" width="48%" />
-//   <img src="https://github-readme-streak-stats.herokuapp.com?user=santhosh-thouda&theme=radical&border_radius=15" width="48%" />
-//   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-thouda&layout=compact&theme=radical&border_radius=15" width="48%" />
+//   <img src="https://github-readme-stats.vercel.app/api?username=rxhulr07&show_icons=true&theme=radical&border_radius=15" width="48%" />
+//   <img src="https://github-readme-streak-stats.herokuapp.com?user=rxhulr07&theme=radical&border_radius=15" width="48%" />
+//   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxhulr07&layout=compact&theme=radical&border_radius=15" width="48%" />
 // </p>
 
 ---

@@ -92,11 +92,12 @@
 
 ### 📈 GitHub Insights
 
-// <p align="center">
-//   <img src="https://github-readme-stats.vercel.app/api?username=rxhulr07&show_icons=true&theme=radical&border_radius=15" width="48%" />
-//   <img src="https://github-readme-streak-stats.herokuapp.com?user=rxhulr07&theme=radical&border_radius=15" width="48%" />
-//   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxhulr07&layout=compact&theme=radical&border_radius=15" width="48%" />
-// </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rxhulr07&show_icons=true&theme=radical&border_radius=15" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rxhulr07&theme=radical&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxhulr07&layout=compact&theme=radical&border_radius=15" width="48%" />
+</p>
+
 
 ---
 
@@ -106,4 +107,5 @@
 //   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
 // </p>
 // ```
+
 

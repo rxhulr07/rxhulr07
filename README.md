@@ -55,7 +55,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,js,aws,jenkins,docker,terraform,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,js,aws,jenkins,docker,terraform,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
@@ -107,5 +107,6 @@
 //   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
 // </p>
 // ```
+
 
 

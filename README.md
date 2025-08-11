@@ -20,6 +20,8 @@
 
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxhulr07" alt="rxhulr07" /></a> </p>
+
 ### 🧠 Who Am I?
 ```js
 👨‍🎓 Final Year CSE Student @ Lovely Professional University  
@@ -107,6 +109,7 @@
 //   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
 // </p>
 // ```
+
 
 
 
